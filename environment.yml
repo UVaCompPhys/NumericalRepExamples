@@ -1,0 +1,8 @@
+name: cling
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
+  - notebook
+  - rise
+
